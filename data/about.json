@@ -1,0 +1,34 @@
+{
+ "region": "경남 진주시 상봉동",
+ "nameEn": "Jinju Health College",
+ "added": "2026-11-01T02:27",
+ "rank": 298,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "CNUE",
+   "campus": "진주교육대학교",
+   "km": 1.3
+  },
+  {
+   "code": "GNU-CHILAM",
+   "campus": "경상국립대학교 칠암캠퍼스",
+   "km": 3.3
+  },
+  {
+   "code": "YIT",
+   "campus": "연암공과대학교",
+   "km": 4.8
+  },
+  {
+   "code": "GNU",
+   "campus": "경상국립대학교 가좌캠퍼스",
+   "km": 5.7
+  },
+  {
+   "code": "MASAN",
+   "campus": "마산대학교",
+   "km": 40.4
+  }
+ ]
+}
